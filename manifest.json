@@ -2,7 +2,7 @@
   "name": "JIYA TRADES",
   "short_name": "JIYA Trades",
   "description": "Future, Forex and Stock Trading Community",
-  "start_url": "/index.html",
+  "start_url": "/JIYA-Trade/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#1A1A1A",
