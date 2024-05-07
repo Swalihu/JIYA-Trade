@@ -1,0 +1,48 @@
+{
+  "name": "JIYA TRADES",
+  "short_name": "JIYA Trades",
+  "description": "Future, Forex and Stock Trading Community",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1A1A1A",
+  "theme_color": "#1A1A1A",
+  "icons": [
+    {
+      "src": "/img/appicon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/appicon72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/appicon96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/appicon144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/appicon152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/appicon384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/appicon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+
+}
